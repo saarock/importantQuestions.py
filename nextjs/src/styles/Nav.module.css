@@ -1,0 +1,128 @@
+
+
+.nav {
+    background-color: black;
+    /* background-color: #242424; */
+    /* background-color: red; */
+    height: 5rem;
+ 
+    
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px; */
+    display: flex;
+}
+
+.navs {
+    display: flex;
+    padding: 1rem;
+}
+
+.allthenavs {
+
+
+    position: absolute;
+    right: 0;
+    display: flex;
+
+
+
+}
+
+.contact {
+    /* margin-left: 23rem; */
+   /* font-size: 34rem; */
+
+}
+
+.about {
+    /* margin-left: 23rem; */
+}
+
+
+.searchbar {
+/* background-color: red; */
+margin-left: 13.6rem;
+color: #888;
+
+
+
+}
+
+
+
+.navbar {
+margin: 1rem;
+display: flex;
+align-items: center;
+color: black;
+/* font-weight: bold; */
+/* font-family: calc(23px); */
+font-family: initial;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: 1.2rem;
+color: wheat;
+
+text-decoration: none;
+/* right: -62rem; */
+}
+
+
+
+.searchinput {
+    padding: 0.3rem;
+    height: 2rem;
+    width: 32rem;
+    /* text-align: center; */
+    /* margin-left: 1rem; */
+    border-radius: 40rem;
+    /* margin-bottom: 8rem; */
+    font-size: 1.5rem;
+    color: #0888;
+    /* color: wheat; */
+    /* font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
+}
+
+.searchinput:active {
+    border: 2px solid skyblue;
+}
+
+.smallnavdiv {
+    margin-top: -0.3rem;
+ 
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 3rem;
+    margin-left: 1rem;
+}
+
+.smallnavdiv:hover {
+
+    height: 3rem;
+
+    background-color: #0005;
+    border-radius: 2rem;
+
+    text-align: center;
+
+
+}
+
+
+/* forlogin and singup buttons  */
+.Singup {
+    height: 3rem;
+
+    background-color: #0005;
+    border-radius: 2rem;
+
+    text-align: center;
+
+    background-color: salmon;
+}
+
+.uploadvideos {
+
+
+}
